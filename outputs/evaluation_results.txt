@@ -1,0 +1,8 @@
+Metric     Greedy   Beam-3
+BLEU-1     0.6124   0.6347
+BLEU-2     0.4339   0.4572
+BLEU-3     0.2961   0.3228
+BLEU-4     0.2011   0.2266
+
+Average generated length (greedy): 10.6 words
+Distinct words used (greedy)      : 428
